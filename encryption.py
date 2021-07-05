@@ -57,3 +57,4 @@ elif mult == length:
 		encry_string.append(result)
 	encry_string = [word.strip() for word in encry_string]
 	print(" ".join(encry_string))
+ 
